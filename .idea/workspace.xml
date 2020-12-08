@@ -13,24 +13,61 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fefeef7-fd4c-4b54-af9c-ef55151f8d28" name="Default Changelist" comment="" />
+    <list default="true" id="6fefeef7-fd4c-4b54-af9c-ef55151f8d28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/DbInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/guest/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/guest/GuestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/guest/GuestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/guest/NoSuchGuestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/hotel/HotelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/hotel/HotelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/hotel/NoSuchHotelException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/reservation/NoSuchReservationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/reservation/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/reservation/ReservationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/reservation/ReservationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/room/NoSuchRoomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/room/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/room/RoomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/room/RoomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/room/RoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/user/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/user/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/user/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/user/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lMtGSMhRzui7iYUPeH8CQsT4qO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,9 +78,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src/main/java/pl/sdacademy/backend/hotel" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,14 +90,25 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/frontend/node_modules/protractor" />
-    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="npm.Angular CLI Server (frontend)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pawel\IdeaProjects\hotel\backend\src\main\java\pl\sdacademy\backend\hotel" />
+      <recent name="C:\Users\Pawel\IdeaProjects\hotel\backend\src\main\java\pl\sdacademy\backend\guest" />
+      <recent name="C:\Users\Pawel\IdeaProjects\hotel\backend\src\main\java\pl\sdacademy\backend\reservation" />
+      <recent name="C:\Users\Pawel\IdeaProjects\hotel\backend\src\main\java\pl\sdacademy\backend" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sdacademy.backend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -113,6 +163,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607418693417</updated>
       <workItem from="1607418694620" duration="2882000" />
+      <workItem from="1607438249000" duration="8070000" />
+      <workItem from="1607446574194" duration="1721000" />
     </task>
     <servers />
   </component>
@@ -129,6 +181,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -137,66 +190,8 @@
     <MESSAGE value="innit" />
     <option name="LAST_COMMIT_MESSAGE" value="innit" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1607422969418">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607422969418" />
-    <state x="1158" y="598" key="Github.ShareDialog" timestamp="1607419537508">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1158" y="598" key="Github.ShareDialog/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607419537508" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.1.bottom" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.1.bottom/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.1.center" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.1.center/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.1.left" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.1.left/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state width="2517" height="401" key="GridCell.Tab.1.right" timestamp="1607418899104">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.1.right/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418899104" />
-    <state x="760" y="274" key="SettingsEditor" timestamp="1607423016849">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607423016849" />
-    <state x="917" y="361" key="new project wizard" timestamp="1607418898454">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="917" y="361" key="new project wizard/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607418898454" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1607422977179">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607422977179" />
-    <state x="1110" y="491" width="713" height="418" key="svn.repositoryBrowser" timestamp="1607422972091">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1110" y="491" width="713" height="418" key="svn.repositoryBrowser/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607422972091" />
-    <state x="1256" y="474" key="svn4idea.import.options" timestamp="1607422970828">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1256" y="474" key="svn4idea.import.options/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607422970828" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
