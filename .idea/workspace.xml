@@ -13,17 +13,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fefeef7-fd4c-4b54-af9c-ef55151f8d28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="6fefeef7-fd4c-4b54-af9c-ef55151f8d28" name="Default Changelist" comment="application.properties" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -65,6 +66,17 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server (frontend)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E2E Tests (frontend)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/frontend/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
@@ -110,6 +122,21 @@
       <workItem from="1607418694620" duration="2882000" />
       <workItem from="1607530901457" duration="34000" />
     </task>
+    <task id="LOCAL-00001" summary="angular.json">
+      <created>1607537939140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607537939140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="application.properties">
+      <created>1607537984374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607537984374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +159,9 @@
       <path value="$PROJECT_DIR$/frontend" />
     </ignored-roots>
     <MESSAGE value="innit" />
-    <option name="LAST_COMMIT_MESSAGE" value="innit" />
+    <MESSAGE value="angular.json" />
+    <MESSAGE value="application.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="application.properties" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1607422969418">
@@ -188,6 +217,10 @@
     </state>
     <state x="1936" y="204" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607530938199" />
     <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.0.1280.760@0.0.2560.1400" timestamp="1607423016849" />
+    <state x="1918" y="240" key="Vcs.Push.Dialog.v2" timestamp="1607537986835">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="240" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1607537986835" />
     <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607530848958">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
