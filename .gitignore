@@ -1,0 +1,164 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/maven,angular,java,java-web
+# Edit at https://www.toptal.com/developers/gitignore?templates=maven,angular,java,java-web
+
+### Angular ###
+## Angular ##
+# compiled output
+frontend/dist/
+frontend/tmp/
+frontend/app/**/*.js
+frontend/app/**/*.js.map
+
+# dependencies
+backend/node_modules/
+backend/bower_components/
+frontend/node_modules/
+frontend/bower_components/
+
+# IDEs and editors
+.idea/
+backend/.idea/
+frontend/.idea/
+
+# misc
+backend/.sass-cache/
+backend/connect.lock/
+backend/coverage/
+backend/libpeerconnection.log/
+backend/npm-debug.log
+backend/testem.log
+backend/typings/
+frontend/.sass-cache/
+frontend/connect.lock/
+frontend/coverage/
+frontend/libpeerconnection.log/
+frontend/npm-debug.log
+frontend/testem.log
+frontend/typings/
+
+# e2e
+frontend/e2e/*.js
+frontend/e2e/*.map
+
+# System Files
+.DS_Store/
+frontend/.DS_Store/
+backend/.DS_Store/
+
+### Java ###
+# Compiled class file
+backend/*.class
+
+# Log file
+backend/*.log
+frontend/*.log
+# BlueJ files
+backend/*.ctxt
+frontend/*.ctxt
+
+# Package Files #
+backend/*.jar
+backend/*.war
+backend/*.nar
+backend/*.ear
+backend/*.zip
+backend/*.tar.gz
+backend/*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+backend/hs_err_pid*
+
+### Java-Web ###
+## ignoring target file
+backend/target/
+
+### Maven ###
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+backend/pom.xml.tag
+backend/pom.xml.releaseBackup
+backend/pom.xml.versionsBackup
+backend/pom.xml.next
+backend/release.properties
+backend/dependency-reduced-pom.xml
+backend/buildNumber.properties
+backend/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+backend/.mvn/wrapper/maven-wrapper.jar
+frontend/pom.xml.tag
+frontend/pom.xml.releaseBackup
+frontend/pom.xml.versionsBackup
+frontend/pom.xml.next
+frontend/release.properties
+frontend/dependency-reduced-pom.xml
+frontend/buildNumber.properties
+frontend/.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+frontend/.mvn/wrapper/maven-wrapper.jar
+
+# End of https://www.toptal.com/developers/gitignore/api/maven,angular,java,java-web
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+frontend/tmp
+frontend/out-tsc
+# Only exists if Bazel was run
+frontend/bazel-out
+
+# profiling files
+frontend/chrome-profiler-events*.json
+frontend/speed-measure-plugin*.json
+
+# IDEs and editors
+
+frontend/.project
+frontend/.classpath
+frontend/.c9/
+frontend/*.launch
+frontend/.settings/
+frontend/*.sublime-workspace
+
+# IDE - VSCode
+frontend/.vscode/*
+frontend/!.vscode/settings.json
+frontend/!.vscode/tasks.json
+frontend/!.vscode/launch.json
+frontend/!.vscode/extensions.json
+frontend/.history/*
+
+# misc
+frontend/libpeerconnection.log
+frontend/yarn-error.log
+
+# System Files
+frontend/.DS_Store
+frontend/Thumbs.db
+
+
+backend/HELP.md
+backend/!.mvn/wrapper/maven-wrapper.jar
+backend/!**/src/main/**/target/
+backend/!**/src/test/**/target/
+
+### STS ###
+backend/.apt_generated
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings
+backend/.springBeans
+backend/.sts4-cache
+
+### IntelliJ IDEA ###
+backend/*.iws
+backend/*.iml
+backend/*.ipr
